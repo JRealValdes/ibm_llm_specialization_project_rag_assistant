@@ -5,3 +5,4 @@ pymupdf
 unstructured
 markdown
 jq
+chromadb
