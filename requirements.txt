@@ -1,8 +1,11 @@
 langchain
 langchain-community
+langchain-huggingface
 sentence-transformers
 pymupdf
 unstructured
 markdown
 jq
 chromadb
+python-dotenv
+accelerate
