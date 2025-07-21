@@ -9,3 +9,4 @@ jq
 chromadb
 python-dotenv
 accelerate
+gradio
